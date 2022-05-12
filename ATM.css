@@ -1,0 +1,30 @@
+        #head {
+            text-align: center;
+        }
+        
+        body {
+            background-color: #65B7FF;
+        }
+        
+        #konupka {
+            transition: all 0.3s ease 0s;
+            padding: 20px 0px;
+            margin: 70px 30px 70px 30px;
+            align-items: center;
+            border-radius: 30px;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        button {
+            width: 150px;
+            height: 60px;
+            margin: 50px 10px 50px 10px;
+            border-radius: 20px;
+            border-style: none;
+            background-color: white;
+            color: rgb(229, 127, 2);
+            cursor: pointer;
+            transition: all 0.3s ease 0s;
+            font-weight: bold;
+        }
